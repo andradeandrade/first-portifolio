@@ -1,2 +1,2 @@
-# first-portifolio
-Meu primeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura.
+# 🚀 Primeiro Portfólio
+Meu primeiro portifólio desenvolvido por mim usando as linguagens HTML e CSS.
